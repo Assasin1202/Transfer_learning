@@ -1,1 +1,3 @@
 # Transfer_learning
+
+This repository contains code and resources for Lab 9 of the Deep Learning course, focusing on transfer learning. Transfer learning is a machine learning technique where a model developed for a particular task is reused as the starting point for a model on a second task. This lab demonstrates how to leverage pre-trained models to improve performance on a new task with limited data.
